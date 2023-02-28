@@ -1,0 +1,19 @@
+h1, h2 {
+    color: rgb(69, 120, 164);
+    text-align: center;
+    background-color: rgb(185, 192, 199);
+
+}
+
+header {
+    background-color: rgb(168, 178, 187);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+}
